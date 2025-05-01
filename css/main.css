@@ -6047,21 +6047,17 @@ button:focus {
   background: var(--bs-bg-ui-linear-gradient-7);
   position: relative;
   z-index: 1;
-  padding: 60px 0;
 }
 @media (min-width: 768px) {
   .ui-blog-area {
-    padding: 80px 0;
   }
 }
 @media (min-width: 992px) {
   .ui-blog-area {
-    padding: 100px 0;
   }
 }
 @media (min-width: 1200px) {
   .ui-blog-area {
-    padding: 120px 0;
   }
 }
 .ui-blog-area__ellipse-1 {
